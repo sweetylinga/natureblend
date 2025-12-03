@@ -88,6 +88,6 @@ Frontend built with Vite and connected to backend API URL
 5. Confirm Order → Email Sent
 
 ### 👨‍💻 Developer
-Rajeev Sutrakar
-B.Tech, IIT Guwahati
-Role: Full-Stack Developer
+Linga Srilaxmi
+B.Tech, IT ,BRECW , Hyderabad
+

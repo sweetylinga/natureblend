@@ -89,5 +89,5 @@ Frontend built with Vite and connected to backend API URL
 
 ### 👨‍💻 Developer
 Linga Srilaxmi
-B.Tech, IT ,BRECW , Hyderabad
+
 
